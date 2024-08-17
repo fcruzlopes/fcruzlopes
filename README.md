@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png" height="40" alt="sql server  logo" />
   <img width="12" />
-  <img src="  https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="40" alt="mongodb  logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="40" alt="mongodb  logo" />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" height="40" alt="kafka  logo" />
   <img width="12" />
