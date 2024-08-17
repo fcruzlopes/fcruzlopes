@@ -58,4 +58,3 @@
   <img src="https://icon.icepanel.io/Technology/svg/AngularJS.svg" height="40" alt="angular logo"  />
   <img width="12" />
 </div>
-###
