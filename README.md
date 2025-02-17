@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 Backend stack<br>🎯 Goals: Learn how to AWS services<br></p>
+<p align="left">✨ Creating bugs since 2019<br>📚 Backend stack<br>🎯 Goals: Learn how to use AWS services<br></p>
 
 ###
 
