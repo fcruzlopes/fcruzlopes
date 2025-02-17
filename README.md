@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 Backend stack<br>🎯 Goals: Work with MongoDB<br></p>
+<p align="left">✨ Creating bugs since 2019<br>📚 Backend stack<br>🎯 Goals: Learn how to AWS services<br></p>
 
 ###
 
